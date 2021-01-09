@@ -1,4 +1,4 @@
-# pythonexercicios
+# pythonexercicios :snake:
 
 ## exercicios de python para treino de conhecimento na linguagem
 
